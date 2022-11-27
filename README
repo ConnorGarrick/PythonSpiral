@@ -1,0 +1,243 @@
+PythonSpiral is a python program that creates a word pyramid from
+a given prompt. It will loop until the user enters the string "exit"
+
+Some examples of output include
+
+This program prints a word pyramid from a given prompt. Please enter a string below, type "default" to print a word pyramid of "Hello World", or type "exit" to exit.
+Enter your string here: default
+H    
+He   
+Hel  
+Hell 
+Hello
+Hello
+Hello W
+Hello Wo
+Hello Wor
+Hello Worl
+Hello World
+
+Enter your string here: A short test prompt
+A
+A
+A s
+A sh
+A sho
+A shor
+A short
+A short
+A short t
+A short te
+A short tes
+A short test
+A short test
+A short test p
+A short test pr
+A short test pro
+A short test prom
+A short test promp
+A short test prompt
+
+and
+
+Enter your string here: This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as intended.
+T
+Th
+Thi
+This
+This
+This i
+This is
+This is
+This is a
+This is a
+This is a l
+This is a lo
+This is a lon
+This is a long
+This is a longe
+This is a longer
+This is a longer
+This is a longer t
+This is a longer te
+This is a longer tes
+This is a longer test
+This is a longer test
+This is a longer test p
+This is a longer test pr
+This is a longer test pro
+This is a longer test prom
+This is a longer test promp
+This is a longer test prompt
+This is a longer test prompt
+This is a longer test prompt t
+This is a longer test prompt to
+This is a longer test prompt to
+This is a longer test prompt to p
+This is a longer test prompt to pr
+This is a longer test prompt to pro
+This is a longer test prompt to prov
+This is a longer test prompt to provi
+This is a longer test prompt to provid
+This is a longer test prompt to provide
+This is a longer test prompt to provide
+This is a longer test prompt to provide a
+This is a longer test prompt to provide an
+This is a longer test prompt to provide an
+This is a longer test prompt to provide an e
+This is a longer test prompt to provide an ex
+This is a longer test prompt to provide an exa
+This is a longer test prompt to provide an exam
+This is a longer test prompt to provide an examp
+This is a longer test prompt to provide an exampl
+This is a longer test prompt to provide an example
+This is a longer test prompt to provide an example
+This is a longer test prompt to provide an example f
+This is a longer test prompt to provide an example fo
+This is a longer test prompt to provide an example for
+This is a longer test prompt to provide an example for
+This is a longer test prompt to provide an example for G
+This is a longer test prompt to provide an example for Gi
+This is a longer test prompt to provide an example for Git
+This is a longer test prompt to provide an example for GitH
+This is a longer test prompt to provide an example for GitHu
+This is a longer test prompt to provide an example for GitHub
+This is a longer test prompt to provide an example for GitHub.
+This is a longer test prompt to provide an example for GitHub.
+This is a longer test prompt to provide an example for GitHub. T
+This is a longer test prompt to provide an example for GitHub. Th
+This is a longer test prompt to provide an example for GitHub. Thi
+This is a longer test prompt to provide an example for GitHub. This
+This is a longer test prompt to provide an example for GitHub. This
+This is a longer test prompt to provide an example for GitHub. This p
+This is a longer test prompt to provide an example for GitHub. This pr
+This is a longer test prompt to provide an example for GitHub. This pro
+This is a longer test prompt to provide an example for GitHub. This prom
+This is a longer test prompt to provide an example for GitHub. This promp
+This is a longer test prompt to provide an example for GitHub. This prompt
+This is a longer test prompt to provide an example for GitHub. This prompt
+This is a longer test prompt to provide an example for GitHub. This prompt s
+This is a longer test prompt to provide an example for GitHub. This prompt sh
+This is a longer test prompt to provide an example for GitHub. This prompt sho
+This is a longer test prompt to provide an example for GitHub. This prompt shou
+This is a longer test prompt to provide an example for GitHub. This prompt shoul
+This is a longer test prompt to provide an example for GitHub. This prompt should
+This is a longer test prompt to provide an example for GitHub. This prompt should
+This is a longer test prompt to provide an example for GitHub. This prompt should i
+This is a longer test prompt to provide an example for GitHub. This prompt should in
+This is a longer test prompt to provide an example for GitHub. This prompt should inc
+This is a longer test prompt to provide an example for GitHub. This prompt should incl
+This is a longer test prompt to provide an example for GitHub. This prompt should inclu
+This is a longer test prompt to provide an example for GitHub. This prompt should includ
+This is a longer test prompt to provide an example for GitHub. This prompt should include
+This is a longer test prompt to provide an example for GitHub. This prompt should include
+This is a longer test prompt to provide an example for GitHub. This prompt should include t
+This is a longer test prompt to provide an example for GitHub. This prompt should include th
+This is a longer test prompt to provide an example for GitHub. This prompt should include thi
+This is a longer test prompt to provide an example for GitHub. This prompt should include thin
+This is a longer test prompt to provide an example for GitHub. This prompt should include thing
+This is a longer test prompt to provide an example for GitHub. This prompt should include things
+This is a longer test prompt to provide an example for GitHub. This prompt should include things
+This is a longer test prompt to provide an example for GitHub. This prompt should include things s
+This is a longer test prompt to provide an example for GitHub. This prompt should include things su
+This is a longer test prompt to provide an example for GitHub. This prompt should include things suc
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such a
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as n
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as nu
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as num
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numb
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbe
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as number
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(12
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(123
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(12345
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(123456
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(12345678
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(123456789
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890)
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890)
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) a
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) an
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and s
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and sp
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and spe
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and spec
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and speci
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and specia
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special c
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special ch
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special cha
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special char
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special chara
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special charac
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special charact
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characte
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special character
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*(
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*())
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*())
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) t
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to s
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to sh
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to sho
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show t
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show th
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show tha
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that t
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that th
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the c
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the co
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the cod
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code w
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code wo
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code wor
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code work
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works a
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as i
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as in
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as int
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as inte
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as inten
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as intend
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as intende
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as intended
+This is a longer test prompt to provide an example for GitHub. This prompt should include things such as numbers(1234567890) and special characters(!@#$%^&*()) to show that the code works as intended.
